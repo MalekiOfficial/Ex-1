@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="utf-8">
+   <title>Ex 1</title>
+ </head>
+ <body style="font-family: Yekan;">
+	 <table border="5" dir="rtl" align="center">
+	  <tr>
+		 <th style="font-size:50px"> کالا </th>
+		 <th style="font-size:50px"> مقدار </th>
+	  </tr>
+	  <tr>
+		<td style="font-size:25px"> چای دوغزال </td>
+		<td style="font-size:25px" align="center"> 2 عدد </td>
+	  </tr>
+	  <tr>
+		<td style="font-size:25px"> پنیر لاکتیکی </td>
+		<td style="font-size:25px" align="center"> 5 عدد </td>
+	  </tr>	 
+	  <tr>
+		<td style="font-size:25px"> روغن اویلا </td>
+		<td style="font-size:25px" align="center"> 4 عدد </td>
+	  </tr>	 
+	  <tr>
+		<td style="font-size:25px"> رب رعنا </td>
+		<td style="font-size:25px" align="center"> 3 عدد </td>
+	  </tr>	 
+	  <tr>
+		<td style="font-size:25px"> مایع پریل</td>
+		<td style="font-size:25px" align="center"> 2 عدد </td>
+	  </tr>	 
+	 </table>
+ </body>
+</html>
